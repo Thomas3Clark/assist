@@ -1,13 +1,13 @@
 {
-    "author": "jjv360",
+    "author": "Clark Industries",
     "dependencies": {},
     "keywords": [],
-    "name": "sal",
+    "name": "Hal",
     "pebble": {
         "capabilities": [
             "configurable"
         ],
-        "displayName": "Sal",
+        "displayName": "Hal",
         "enableMultiJS": true,
         "messageKeys": {
             "action": 0,
